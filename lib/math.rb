@@ -19,7 +19,8 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
-
+  calc = num1 / num2
+  return calc
 end
 
 def square_root(num)
